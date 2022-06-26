@@ -1,0 +1,4 @@
+Fo|Foo|pyright|C
+f|foo|around|
+f|Foo|around|
+f|Foo|around|
